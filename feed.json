@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Three In One",
+    "description": "",
+    "home_page_url": "https://nic77leo.github.io/threeinone",
+    "feed_url": "https://nic77leo.github.io/threeinone/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Nic"
+    },
+    "items": [
+    ]
+}
